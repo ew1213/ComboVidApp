@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import './App.css';
 
 const API_KEY = import.meta.env.VITE_YOUTUBE_API_KEY; // Replace with your real API key
 const CHANNEL_ID = 'UCjmRBISh_RbUnJeNxidjgKQ'; // Replace with the actual channel ID
